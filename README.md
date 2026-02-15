@@ -78,23 +78,23 @@ This project follows **MVVM (Model-View-ViewModel)** architecture.
 
 ## 📸 Screenshots
 
-1. Splash Screen
-This is the initial screen of the app that introduces the User Directory. It displays a clean UI with an icon and title while preparing the app for navigation to the user list screen.
+### 1. Splash Screen
+- This is the initial screen of the app that introduces the User Directory. It displays a clean UI with an icon and title while preparing the app for navigation to the user list screen.
 
 <img width="427" height="916" alt="image" src="https://github.com/user-attachments/assets/3b642a84-9b77-412c-aec4-350f019d13a8" />
 
-2 User List Screen
-This screen fetches user data from a REST API and displays it in a structured list format. Each user is shown inside a card with their ID, username, and name. Users can tap on any item to view detailed information.
+### 2 User List Screen
+- This screen fetches user data from a REST API and displays it in a structured list format. Each user is shown inside a card with their ID, username, and name. Users can tap on any item to view detailed information.
 
 <img width="429" height="922" alt="image" src="https://github.com/user-attachments/assets/396dbc86-3b20-4cfc-80ec-e1603d7c7c1f" />
 
-3. User Detail Screen
-This screen displays complete information about the selected user. It includes:
-- Basic Information: ID, Name, Username, Email, Phone, Website
-- Address Details: Street, City, Zipcode, Latitude, Longitude
-- Company Information: Company Name, Catch Phrase, and Business details
+### 3. User Detail Screen
+- This screen displays complete information about the selected user. It includes:
+  - Basic Information: ID, Name, Username, Email, Phone, Website
+  - Address Details: Street, City, Zipcode, Latitude, Longitude
+  - Company Information: Company Name, Catch Phrase, and Business details
 
-The layout is organized using cards for better readability and clean presentation.
+- The layout is organized using cards for better readability and clean presentation.
 
 <img width="434" height="916" alt="image" src="https://github.com/user-attachments/assets/6141c9f7-f488-4aba-97c9-e072fce38031" />
 
