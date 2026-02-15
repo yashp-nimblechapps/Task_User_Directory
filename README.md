@@ -21,20 +21,20 @@ This project follows **MVVM (Model-View-ViewModel)** architecture.
 
 ### 📂 Project Structure
 
-lib/
-- model/
- - user_model.dart
-- services/
- - api_service.dart
-- viewmodels/
- - user_viewmodel.dart
-- views/
- - splash_view.dart
- - user_list_view.dart
- - user_detail_view.dart
-- routes/
- - app_router.dart
-- main.dart
+### lib/
+  - model/
+    - user_model.dart
+  - services/
+    - api_service.dart
+  - viewmodels/
+    - user_viewmodel.dart
+  - views/
+    - splash_view.dart
+    - user_list_view.dart
+    - user_detail_view.dart
+  - routes/
+    - app_router.dart
+  - main.dart
 
 ---
 
