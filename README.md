@@ -22,25 +22,19 @@ This project follows **MVVM (Model-View-ViewModel)** architecture.
 ### 📂 Project Structure
 
 lib/
-│
-├── model/
-│   └── user_model.dart
-│
-├── services/
-│   └── api_service.dart
-│
-├── viewmodels/
-│   └── user_viewmodel.dart
-│
-├── views/
-│   ├── splash_view.dart
-│   ├── user_list_view.dart
-│   └── user_detail_view.dart
-│
-├── routes/
-│   └── app_router.dart
-│
-└── main.dart
+- model/
+ - user_model.dart
+- services/
+ - api_service.dart
+- viewmodels/
+ - user_viewmodel.dart
+- views/
+ - splash_view.dart
+ - user_list_view.dart
+ - user_detail_view.dart
+- routes/
+ - app_router.dart
+- main.dart
 
 ---
 
@@ -85,12 +79,13 @@ lib/
 ## 📸 Screenshots
 
 1. Splash Screen
-<img width="502" height="876" alt="image" src="https://github.com/user-attachments/assets/9dee42f8-2607-4a3b-8ffd-42b51a5ea04d" />
+<img width="427" height="916" alt="image" src="https://github.com/user-attachments/assets/3b642a84-9b77-412c-aec4-350f019d13a8" />
 
 2 User List Screen
-<img width="502" height="876" alt="image" src="https://github.com/user-attachments/assets/d5cd016b-10af-4450-a847-53ad6fe9f00f" />
+<img width="429" height="922" alt="image" src="https://github.com/user-attachments/assets/396dbc86-3b20-4cfc-80ec-e1603d7c7c1f" />
 
 3. User Detail Screen
+<img width="434" height="916" alt="image" src="https://github.com/user-attachments/assets/6141c9f7-f488-4aba-97c9-e072fce38031" />
 
 ---
 
